@@ -1,4 +1,4 @@
-## comsripts - Common Scripts
+## comscripts - Common Scripts
 
 * Scripts 
      https://code.google.com/p/android-x86/downloads/list
